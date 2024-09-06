@@ -1,0 +1,264 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"U7nlW6PjXn\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h1\\\">\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0645\u0628\u064a\u0639\u0627\u062a</span>\",\"col\":12}},{\"id\":\"y1OkEolkR1\",\"type\":\"card\",\"data\":{\"card_name\":\"\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0639\u0645\u0644\u0627\u0621\",\"col\":4}},{\"id\":\"_Em4ggl-vv\",\"type\":\"card\",\"data\":{\"card_name\":\"\u062a\u0642\u0627\u0631\u064a\u0631 \u062a\u062d\u0644\u064a\u0644\u064a\u0629\",\"col\":4}},{\"id\":\"hohJRwsqTj\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h1\\\">\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0645\u0634\u062a\u0631\u064a\u0627\u062a</span>\",\"col\":12}},{\"id\":\"HtNdinZDvm\",\"type\":\"card\",\"data\":{\"card_name\":\"\u062a\u0642\u0627\u0631\u064a\u0631 \u062a\u062d\u0644\u064a\u0644\u064a\u0629\",\"col\":4}},{\"id\":\"uOaAaDXKmX\",\"type\":\"card\",\"data\":{\"card_name\":\"\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0645\u0648\u0631\u062f\u064a\u0646\",\"col\":4}},{\"id\":\"fEc_BJ95T7\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h1\\\">\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0645\u062d\u0627\u0633\u0628\u0629</span>\",\"col\":12}},{\"id\":\"EIveVIAc2j\",\"type\":\"card\",\"data\":{\"card_name\":\"\u062f\u0641\u062a\u0631\u0629 \u0627\u0644\u0627\u0633\u062a\u0627\u0630\",\"col\":4}},{\"id\":\"FVgQ3dPkGb\",\"type\":\"card\",\"data\":{\"card_name\":\"Financial Statements\",\"col\":4}},{\"id\":\"XSSqn3Ufx5\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h1\\\">\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0645\u062e\u0632\u0648\u0646</span>\",\"col\":12}},{\"id\":\"r-v1dkWCNw\",\"type\":\"card\",\"data\":{\"card_name\":\"\u062a\u0642\u0627\u0631\u064a\u0631 \u062a\u062d\u0644\u064a\u0644\u064a\u0629\",\"col\":4}},{\"id\":\"73UeeCPibU\",\"type\":\"card\",\"data\":{\"card_name\":\"More\",\"col\":4}}]",
+ "creation": "2024-08-29 17:11:13.233664",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "fal fa-chart-line",
+ "idx": 0,
+ "indicator_color": "green",
+ "is_hidden": 0,
+ "label": "Reports",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u062f\u0641\u062a\u0631\u0629 \u0627\u0644\u0627\u0633\u062a\u0627\u0630",
+   "link_count": 3,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u062f\u0641\u062a\u0631 \u0627\u0644\u0623\u0633\u062a\u0627\u0630 \u0627\u0644\u0639\u0627\u0645",
+   "link_count": 0,
+   "link_to": "General Ledger",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u0644\u062e\u0635 \u062f\u0641\u062a\u0631 \u0627\u0644\u0639\u0645\u0644\u0627\u0621",
+   "link_count": 0,
+   "link_to": "General Ledger",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u0644\u062e\u0635 \u062f\u0641\u062a\u0631 \u0627\u0644\u0645\u0648\u0631\u062f\u064a\u0646",
+   "link_count": 0,
+   "link_to": "Supplier Ledger Summary",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0639\u0645\u0644\u0627\u0621",
+   "link_count": 4,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u063a\u064a\u0631 \u0646\u0634\u0637\u064a\u0646",
+   "link_count": 0,
+   "link_to": "Inactive Customers",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0631\u0635\u064a\u062f \u0627\u0644\u0639\u0645\u064a\u0644",
+   "link_count": 0,
+   "link_to": "Customer Credit Balance",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0633\u0639\u0631 \u0627\u0644\u0628\u0646\u062f \u0627\u0644\u0639\u0645\u0644\u0627\u0621 \u0627\u0644\u062d\u0643\u064a\u0645",
+   "link_count": 0,
+   "link_to": "Customer-wise Item Price",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0632\u0628\u0627\u0626\u0646 \u0628\u062f\u0648\u0646 \u0623\u064a \u0645\u0639\u0627\u0645\u0644\u0627\u062a \u0645\u0628\u064a\u0639\u0627\u062a",
+   "link_count": 0,
+   "link_to": "Customers Without Any Sales Transactions",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Financial Statements",
+   "link_count": 3,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Trial Balance",
+   "link_count": 0,
+   "link_to": "Trial Balance",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Profit and Loss Statement",
+   "link_count": 0,
+   "link_to": "Profit and Loss Statement",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Balance Sheet",
+   "link_count": 0,
+   "link_to": "Balance Sheet",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u062a\u0642\u0627\u0631\u064a\u0631 \u0627\u0644\u0645\u0648\u0631\u062f\u064a\u0646",
+   "link_count": 1,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0645\u0642\u0627\u0631\u0646\u0629 \u0639\u0631\u0648\u0636 \u0623\u0633\u0639\u0627\u0631 \u0627\u0644\u0645\u0648\u0631\u062f\u064a\u0646",
+   "link_count": 0,
+   "link_to": "Supplier Quotation Comparison",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u062a\u0642\u0627\u0631\u064a\u0631 \u062a\u062d\u0644\u064a\u0644\u064a\u0629",
+   "link_count": 3,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u062a\u062d\u0644\u064a\u0644\u0627\u062a \u0627\u0644\u0645\u062e\u0627\u0632\u0646",
+   "link_count": 0,
+   "link_to": "Stock Analytics",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0631\u0635\u064a\u062f \u0627\u0644\u0645\u062e\u0632\u0648\u0646",
+   "link_count": 0,
+   "link_to": "Stock Balance",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "\u0633\u062c\u0644 \u0627\u0644\u0645\u062e\u0632\u0646",
+   "link_count": 0,
+   "link_to": "Stock Ledger",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "More",
+   "link_count": 4,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Warehouse Wise Stock Balance",
+   "link_count": 0,
+   "link_to": "Warehouse Wise Stock Balance",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Incorrect Stock Value Report",
+   "link_count": 0,
+   "link_to": "Incorrect Stock Value Report",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Total Stock Summary",
+   "link_count": 0,
+   "link_to": "Total Stock Summary",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "BOM Stock Report",
+   "link_count": 0,
+   "link_to": "BOM Stock Report",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-08-29 18:05:20.360417",
+ "modified_by": "Administrator",
+ "module": "Custom Mubtkir",
+ "name": "Reports",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 23.0,
+ "shortcuts": [],
+ "title": "Reports"
+}
